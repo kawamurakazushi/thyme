@@ -1,8 +1,8 @@
-# Lime
+# Thyme
 
 Simple standalone Zsh theme.
 
-<img width="570" alt="Lime" src="screenshots/thyme.png">
+<img width="570" alt="Thyme" src="screenshots/thyme.png">
 
 ## Usage
 
