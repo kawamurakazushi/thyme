@@ -1,4 +1,4 @@
-PROMPT='%{$fg[blue]%}~%C%{$reset_color%}'
+PROMPT='%{$fg[blue]%}~%C@%m%{$reset_color%}'
 
 autoload -Uz vcs_info
 setopt prompt_subst
