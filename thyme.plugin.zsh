@@ -8,5 +8,5 @@ zstyle ':vcs_info:git:*' unstagedstr "%F{red}+"
 zstyle ':vcs_info:*' formats "%F{green}%c%u(%b)%f"
 zstyle ':vcs_info:*' actionformats '(%b|%a)'
 precmd () { vcs_info }
-PROMPT=$PROMPT'${vcs_info_msg_0_} $
-'
+PROMPT=$PROMPT'${vcs_info_msg_0_}
+$ '
