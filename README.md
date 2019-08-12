@@ -2,26 +2,26 @@
 
 Simple standalone Zsh theme.
 
-<img width="570" alt="Thyme" src="screenshots/thyme.png">
+![screenshot](screenshots/thyme.png)
 
 ## Usage
 
 ### [Antigen](https://github.com/zsh-users/antigen)
 
 ``` zsh
-antigen bundle kakawamura/thyme
+antigen bundle kawamurakazushi/thyme
 ```
 
 ### [zgen](https://github.com/tarjoilija/zgen)
 
 ``` zsh
-zgen load kakawamura/thyme
+zgen load kawamurakazushi/thyme
 ```
 
 ### [zplug](https://github.com/b4b4r07/zplug)
 
 ``` zsh
-zplug "kakawamura/thyme"
+zplug "kawamurakazushi/thyme"
 ```
 
 ### [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
@@ -29,8 +29,8 @@ zplug "kakawamura/thyme"
 Clone this repository and make symbolic links to oh-my-zsh.
 
 ``` sh
-git clone https://github.com/kakawamura/thyme.git
-cd lime
+git clone https://github.com/kawamurakazushi/thyme.git
+cd thyme
 ln -s "$PWD/thyme.plugin.zsh" ~/.oh-my-zsh/themes/thyme.zsh-theme
 ```
 
